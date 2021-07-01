@@ -101,7 +101,7 @@ nav.home-links a:hover{
 
 .contact-p{
     width: 589px;
-    height: 194px;
+    height: 140px;
     align-items: center;
     position: relative;
     margin: 0 auto;
@@ -109,6 +109,7 @@ nav.home-links a:hover{
 
 .contact-p p{
     font-size: 1.25em;
+    margin-top:1em;
 }
 
 .icon-box{
@@ -117,7 +118,11 @@ nav.home-links a:hover{
     border-radius: 20px;
     border: 3px solid #323232;
     background-color: #FFE8FA;
+    align-items: center;
+    position: relative;
+    margin: 0 auto;
 }
+
 
 .contacts {
     margin:0;
@@ -126,7 +131,6 @@ nav.home-links a:hover{
 }
 
 .contacts li{
-    width: 30px;
     display: inline-block;
     padding: 20px 10px;
 }
