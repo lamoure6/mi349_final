@@ -149,9 +149,8 @@ nav.home-links a:hover{
 .about-p{
     margin-right: 120px;
     margin-left: 126px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 1.25em;
-    font-weight: 500;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 520;
 }
 
 .about-p p{
