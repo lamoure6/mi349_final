@@ -25,6 +25,7 @@ header nav{
     color: #F5FFB8;  
     padding-right: 1em;
     line-height: 60px;
+    font-weight: 500;
     text-align: right;
 }
 
@@ -32,7 +33,7 @@ header nav a{
     color: #F5FFB8;
     text-decoration: none;
     font-size: 1.25em;
-    font-weight: 600;
+    font-weight: 550;
     padding: 0.25em;
 }
 
@@ -66,6 +67,7 @@ header nav a:hover{
 .box p{
     margin: 0.5em;
     padding-left: 0.5em;
+    padding-top: 0.5em;
     font-size: 1.25em;
 }
 
