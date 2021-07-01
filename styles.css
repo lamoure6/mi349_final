@@ -15,7 +15,7 @@ body{
 header{
     background-color: #323232;
     width: 1074px;
-    height: 72px;
+    height: 60px;
     border: 2px solid black;
     margin-left: auto;
     margin-right: auto;
@@ -24,7 +24,7 @@ header{
 header nav{
     color: #F5FFB8;  
     padding-right: 1em;
-    line-height: 72px;
+    line-height: 60px;
     text-align: right;
 }
 
@@ -32,6 +32,7 @@ header nav a{
     color: #F5FFB8;
     text-decoration: none;
     font-size: 1.25em;
+    font-weight: bold;
     padding: 0.25em;
 }
 
@@ -63,7 +64,7 @@ header nav a:hover{
 }
 
 .box p{
-    padding: 0.5em;
+    margin: 0.5em;
     font-size: 1.25em;
 }
 
@@ -77,7 +78,7 @@ h1{
 
 nav.home-links{
     color: #323232; 
-    align-content: center;
+    text-align:center;
     padding: 1em;
     font-size: 1.25em;
     position: absolute;
