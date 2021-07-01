@@ -21,7 +21,7 @@ header{
     margin-right: auto;
 }
 
-header p{
+.name{
     color: #b8ffe6;  
     padding-right: 1em;
     line-height: 60px;
