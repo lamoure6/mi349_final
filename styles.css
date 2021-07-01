@@ -165,12 +165,14 @@ nav.home-links a:hover{
 }
 
 .contact-note{
+    margin-top: 1em;
     color: #323232; 
     padding: 0.5em;
     font-size: 1.25em;
     font-weight: 520;
     position: relative;
     bottom: 0;
+    text-align: center;
 }
 
 .contact-link{
