@@ -32,7 +32,7 @@ header nav a{
     color: #F5FFB8;
     text-decoration: none;
     font-size: 1.25em;
-    font-weight: 500;
+    font-weight: 600;
     padding: 0.25em;
 }
 
@@ -65,6 +65,7 @@ header nav a:hover{
 
 .box p{
     margin: 0.5em;
+    padding-left: 0.5em;
     font-size: 1.25em;
 }
 
@@ -79,7 +80,7 @@ h1{
 nav.home-links{
     color: #323232; 
     text-align:center;
-    padding: 1em;
+    padding: 0.5em;
     font-size: 1.25em;
     position: relative;
     bottom: 0;
