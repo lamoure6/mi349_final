@@ -186,15 +186,17 @@ nav.home-links a:hover{
 }
 
 h2{
+    font-size: 1.25em;
     margin-left: 126px; 
     margin-top: 0.75em;
     padding-bottom: 0.25em;
-    text-decoration-line: 2px underline;
+    text-decoration-line: underline;
     text-decoration-style: wavy;
     text-decoration-color: #5F78FC;
 
 }
 
 .hobbies{
+    font-size: 1.2em;
     margin-left: 145px; 
 }
