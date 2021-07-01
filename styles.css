@@ -150,7 +150,7 @@ nav.home-links a:hover{
     margin-right: 120px;
     margin-left: 126px;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 1.25em;
+    font-size: 1em;
     font-weight: 500;
 }
 
@@ -162,4 +162,25 @@ nav.home-links a:hover{
     float: left;
     padding-right: 1em;
     padding-bottom: 0.5em;
+}
+
+.contact-note{
+    color: #323232; 
+    text-align:center;
+    padding: 0.5em;
+    font-size: 1.25em;
+    font-weight: 520;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+}
+
+.contact-link{
+    color: #323232; 
+    text-decoration: none; 
+}
+
+.contact-link:hover{
+    color: #5F78FC; 
+    text-decoration: none; 
 }
