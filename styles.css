@@ -150,7 +150,8 @@ nav.home-links a:hover{
     margin-right: 120px;
     margin-left: 126px;
     font-family: 'Courier New', Courier, monospace;
-    font-weight: 520;
+    font-size: 1.25em;
+    font-weight: 500;
 }
 
 .about-p p{
