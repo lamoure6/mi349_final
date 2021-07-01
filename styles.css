@@ -10,6 +10,7 @@ figcaption, h1, h2, h3, ul, li, body, div, p, img {
 body{
     background-color:#E4E5E9;
     font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
 }
 
 header{
@@ -76,7 +77,11 @@ h1{
     font-size: 2em;
     color: #5F78FC;
     margin-left: 245px;
-    margin-top: 2em;;
+    margin-top: 2em;
+}
+
+h1.about{
+    margin-left: 129px;
 }
 
 nav.home-links{
