@@ -15,7 +15,7 @@ body{
 header{
     background-color: #323232;
     width: 1074px;
-    height: 35px;
+    height: 50px;
     border: 2px solid black;
     margin-left: auto;
     margin-right: auto;
@@ -24,7 +24,7 @@ header{
 header nav{
     color: #F5FFB8;  
     padding-right: 0.5em;
-    line-height: 35px;
+    line-height: 50px;
     text-align: right;
 }
 
@@ -59,11 +59,12 @@ header nav a:hover{
     align-items: center;
     position: relative;
     margin: 0 auto;
-    margin-top: 2em;
+    margin-top: 0.75em;
 }
 
 .box p{
     padding: 0.5em;
+    font-size: 1.25em;
 }
 
 h1{
@@ -71,13 +72,14 @@ h1{
     font-size: 2em;
     color: #5F78FC;
     margin-left: 245px;
+    margin-top: 2em;;
 }
 
 nav.home-links{
     color: #323232; 
-    margin-left: auto;
-    margin-right: auto;
-    padding-bottom: 1em;
+    align-content: center;
+    padding: 1em;
+    font-size: 1.25em;
     position: absolute;
     bottom: 0;
 }
