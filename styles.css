@@ -156,6 +156,9 @@ nav.home-links a:hover{
 
 .about-p p{
     padding-top: 0.5em;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: #FFE8FA;
 }
 
 #self-photo{
@@ -183,4 +186,12 @@ nav.home-links a:hover{
 .contact-link:hover{
     color: #5F78FC; 
     text-decoration: none; 
+}
+
+h2{
+    margin-left: 126px; 
+}
+
+.hobbies{
+    margin-left: 130px; 
 }
