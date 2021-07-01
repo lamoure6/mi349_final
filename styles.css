@@ -150,12 +150,12 @@ nav.home-links a:hover{
     margin-right: 120px;
     margin-top: 0.5em;
     margin-left: 126px;
-    font-size: 1.25em;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 1em;
     font-weight: 500;
 }
 
 #self-photo{
-    margin-left:126px;
     float: left;
     padding-right: 0.5em;
     padding-bottom: 0.5em;
