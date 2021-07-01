@@ -148,6 +148,7 @@ nav.home-links a:hover{
 
 .about-p{
     margin-right: 120px;
+    margin-top: 0.25em;
     font-size: 1.25em;
     font-weight: 500;
 }
@@ -155,4 +156,6 @@ nav.home-links a:hover{
 #self-photo{
     margin-left:126px;
     float: left;
+    padding-right: 0.5em;
+    padding-bottom: 0.5em;
 }
