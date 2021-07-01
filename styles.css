@@ -23,6 +23,8 @@ header{
 
 header nav{
     color: #F5FFB8;  
+    padding-left: 0.5em;
+    line-height: 35px;
 }
 
 header nav a{
@@ -30,7 +32,7 @@ header nav a{
     text-align: right;
     text-decoration: none;
     font-size: 1.25em;
-    padding: 0.5em;
+    padding: 0.25em;
 
 }
 
@@ -52,6 +54,8 @@ header nav a:hover{
 .box{
     border-radius: 10px;
     border: 2px solid black;
+    width: 589px;
+    height: 194px;
 }
 
 h1{
