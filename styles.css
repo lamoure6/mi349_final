@@ -152,13 +152,13 @@ nav.home-links a:hover{
     font-family: 'Courier New', Courier, monospace;
     font-size: 1.2em;
     font-weight: 500;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: #FFE8FA;
 }
 
 .about-p p{
     padding-top: 0.5em;
-    text-decoration-line: underline;
-    text-decoration-style: wavy;
-    text-decoration-color: #FFE8FA;
 }
 
 #self-photo{
@@ -190,8 +190,9 @@ nav.home-links a:hover{
 
 h2{
     margin-left: 126px; 
+    margin-top: 0.75em;
 }
 
 .hobbies{
-    margin-left: 130px; 
+    margin-left: 145px; 
 }
