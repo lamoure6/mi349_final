@@ -10,16 +10,26 @@ figcaption, h1, h2, h3, ul, li, body, div, p, img {
 body{
     background-color:#E4E5E9;
     font-family: 'Courier New', Courier, monospace;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 header{
     background-color: #323232;
     width: 1074px;
-    height: 72px;
+    height: 35px;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-header nav a{
+header nav{
     color: #F5FFB8;
+    text-align: right;
+    text-decoration: none;
+    font-size: 1.25em;
+    padding: 0.5em;
+
 }
 
 header nav a:hover{
@@ -43,4 +53,5 @@ header nav a:hover{
 h1{
     font-weight: bold;
     font-size: 2em;
+    color: #5F78FC;
 }
