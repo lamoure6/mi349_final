@@ -80,8 +80,9 @@ h1{
     margin-top: 2em;
 }
 
-h1.about{
+h1.about-heading{
     margin-left: 129px;
+    margin-bottom: 0.5em;
 }
 
 nav.home-links{
@@ -145,8 +146,13 @@ nav.home-links a:hover{
     padding:10px;
 }
 
+.about-p{
+    margin-right: 120px;
+    font-size: 1.25em;
+    font-weight: 500;
+}
+
 #self-photo{
     margin-left:126px;
-    margin-top:0.5em;
     float: left;
 }
