@@ -32,7 +32,7 @@ header nav a{
     color: #F5FFB8;
     text-decoration: none;
     font-size: 1.25em;
-    font-weight: bold;
+    font-weight: 500;
     padding: 0.25em;
 }
 
@@ -81,7 +81,7 @@ nav.home-links{
     text-align:center;
     padding: 1em;
     font-size: 1.25em;
-    position: absolute;
+    position: relative;
     bottom: 0;
 }
 
