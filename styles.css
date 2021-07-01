@@ -25,13 +25,13 @@ header nav{
     color: #F5FFB8;  
     padding-left: 0.5em;
     line-height: 35px;
+    text-align: right;
 }
 
 header nav a{
     color: #F5FFB8;
-    text-align: right;
     text-decoration: none;
-    font-size: 1.25em;
+    font-size: 1em;
     padding: 0.25em;
 
 }
@@ -56,10 +56,26 @@ header nav a:hover{
     border: 2px solid black;
     width: 589px;
     height: 194px;
+
 }
 
 h1{
     font-weight: bold;
     font-size: 2em;
     color: #5F78FC;
+}
+
+.home-links nav{
+    color: #323232; 
+    text-align: center;
+}
+
+.home-links nav a{
+    color: #323232;
+    text-decoration: none;
+    padding: 0.25em;
+}
+
+.home-links nav a:hover{
+    color: #FFE8FA;
 }
